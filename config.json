@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfarse",
+        "uuid": 17637405,
+        "checksum": "la4us"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
